@@ -125,7 +125,7 @@ const restaurant = {
 // restaurant.orderPizza('mushrooms', 'onion', 'olives', 'spinach');
 // restaurant.orderPizza('mushrooms');
 
-////////////////////////////// The Spread Oper
+////////////////////////////// The Spread Operator(...)
 
 // const arr = [7, 8, 9];
 // const badNewArr = [1, 2, arr[0], arr[1], arr[2]];
